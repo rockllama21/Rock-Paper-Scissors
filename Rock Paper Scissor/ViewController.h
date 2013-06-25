@@ -10,9 +10,23 @@
 
 @interface ViewController : UIViewController
 {
-   IBOutlet UIImageView* background_img;
-    
+    IBOutlet UIImageView* background_img;
+    IBOutlet UIImageView* computerImg;
+    IBOutlet UIImageView* playerImg;
+    int playerMove;
+    int AIMove;
+    int winner;
 }
-@property(strong, nonatomic)UIImage*img;
+@property (weak, nonatomic) IBOutlet UILabel *winlabel;
+-(IBAction)getPlayerAction:(id)sender;
+-(void)getAIMove;
+-(void)playRPS;
 
 @end
+
+
+
+
+
+
+

@@ -20,6 +20,11 @@
 		3F03A1E91778E1A90073F8B8 /* ViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3F03A1E71778E1A90073F8B8 /* ViewController_iPhone.xib */; };
 		3F03A1EC1778E1A90073F8B8 /* ViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3F03A1EA1778E1A90073F8B8 /* ViewController_iPad.xib */; };
 		3F03A1F31778EF600073F8B8 /* city.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3F03A1F21778EF600073F8B8 /* city.jpeg */; };
+		3FFEFC66177A2DE1006B9C70 /* computer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFEFC65177A2DE1006B9C70 /* computer.jpg */; };
+		3FFEFC68177A333C006B9C70 /* Scissors.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FFEFC67177A333C006B9C70 /* Scissors.png */; };
+		3FFEFC6A177A3346006B9C70 /* paper.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3FFEFC69177A3346006B9C70 /* paper.gif */; };
+		3FFEFC6C177A334F006B9C70 /* Rock.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFEFC6B177A334F006B9C70 /* Rock.jpg */; };
+		3FFEFC6E177A3631006B9C70 /* you.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFEFC6D177A3631006B9C70 /* you.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +46,11 @@
 		3F03A1E81778E1A90073F8B8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPhone.xib; sourceTree = "<group>"; };
 		3F03A1EB1778E1A90073F8B8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPad.xib; sourceTree = "<group>"; };
 		3F03A1F21778EF600073F8B8 /* city.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = city.jpeg; sourceTree = "<group>"; };
+		3FFEFC65177A2DE1006B9C70 /* computer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = computer.jpg; sourceTree = "<group>"; };
+		3FFEFC67177A333C006B9C70 /* Scissors.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Scissors.png; sourceTree = "<group>"; };
+		3FFEFC69177A3346006B9C70 /* paper.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = paper.gif; sourceTree = "<group>"; };
+		3FFEFC6B177A334F006B9C70 /* Rock.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Rock.jpg; sourceTree = "<group>"; };
+		3FFEFC6D177A3631006B9C70 /* you.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = you.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,7 +113,12 @@
 			children = (
 				3F03A1D41778E1A90073F8B8 /* Rock Paper Scissor-Info.plist */,
 				3F03A1F21778EF600073F8B8 /* city.jpeg */,
+				3FFEFC65177A2DE1006B9C70 /* computer.jpg */,
+				3FFEFC6D177A3631006B9C70 /* you.jpg */,
+				3FFEFC67177A333C006B9C70 /* Scissors.png */,
 				3F03A1D51778E1A90073F8B8 /* InfoPlist.strings */,
+				3FFEFC69177A3346006B9C70 /* paper.gif */,
+				3FFEFC6B177A334F006B9C70 /* Rock.jpg */,
 				3F03A1D81778E1A90073F8B8 /* main.m */,
 				3F03A1DA1778E1A90073F8B8 /* Rock Paper Scissor-Prefix.pch */,
 				3F03A1DE1778E1A90073F8B8 /* Default.png */,
@@ -171,6 +186,11 @@
 				3F03A1E91778E1A90073F8B8 /* ViewController_iPhone.xib in Resources */,
 				3F03A1EC1778E1A90073F8B8 /* ViewController_iPad.xib in Resources */,
 				3F03A1F31778EF600073F8B8 /* city.jpeg in Resources */,
+				3FFEFC66177A2DE1006B9C70 /* computer.jpg in Resources */,
+				3FFEFC68177A333C006B9C70 /* Scissors.png in Resources */,
+				3FFEFC6A177A3346006B9C70 /* paper.gif in Resources */,
+				3FFEFC6C177A334F006B9C70 /* Rock.jpg in Resources */,
+				3FFEFC6E177A3631006B9C70 /* you.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -316,6 +336,7 @@
 				3F03A1F11778E1A90073F8B8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
