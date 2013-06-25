@@ -9,5 +9,10 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+{
+   IBOutlet UIImageView* background_img;
+    
+}
+@property(strong, nonatomic)UIImage*img;
 
 @end
