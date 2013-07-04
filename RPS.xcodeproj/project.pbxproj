@@ -20,27 +20,21 @@
 		3F03A1E91778E1A90073F8B8 /* ViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3F03A1E71778E1A90073F8B8 /* ViewController_iPhone.xib */; };
 		3F03A1EC1778E1A90073F8B8 /* ViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3F03A1EA1778E1A90073F8B8 /* ViewController_iPad.xib */; };
 		3F03A1F31778EF600073F8B8 /* city.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3F03A1F21778EF600073F8B8 /* city.jpeg */; };
-		3F095BC51785F6DB0080A45A /* Rock.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F095BC41785F6DB0080A45A /* Rock.jpg */; };
-		3F095BC61785F6ED0080A45A /* RPSLogo 57px.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F121B56177B525A00A0025E /* RPSLogo 57px.png */; };
-		3F095BC71785F6F00080A45A /* RPSLogo 114px.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F121B54177B525400A0025E /* RPSLogo 114px.png */; };
-		3F6DB040177B33C700BF7350 /* mcWallPaper.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F6DB03F177B33C700BF7350 /* mcWallPaper.png */; };
-		3F6DB042177B353600BF7350 /* wave.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F6DB041177B353600BF7350 /* wave.jpg */; };
-		3FFEFC66177A2DE1006B9C70 /* computer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFEFC65177A2DE1006B9C70 /* computer.jpg */; };
-		3FFEFC68177A333C006B9C70 /* Scissors.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FFEFC67177A333C006B9C70 /* Scissors.png */; };
-		3FFEFC6A177A3346006B9C70 /* paper.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3FFEFC69177A3346006B9C70 /* paper.gif */; };
-		3FFEFC6C177A334F006B9C70 /* Rock.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFEFC6B177A334F006B9C70 /* Rock.jpg */; };
-		3FFEFC6E177A3631006B9C70 /* you.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFEFC6D177A3631006B9C70 /* you.jpg */; };
+		3F095BC91785FB6A0080A45A /* Scissors.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F095BC81785FB6A0080A45A /* Scissors.png */; };
+		3F095BCB1785FB740080A45A /* Rock.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F095BCA1785FB740080A45A /* Rock.jpg */; };
+		3F095BCD1785FB7E0080A45A /* paper.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3F095BCC1785FB7E0080A45A /* paper.gif */; };
+		3F095BCF1785FB9E0080A45A /* you.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F095BCE1785FB9E0080A45A /* you.jpg */; };
+		3F095BD11785FBA70080A45A /* computer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F095BD01785FBA70080A45A /* computer.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3F03A1C91778E1A90073F8B8 /* Rock Paper Scissor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Rock Paper Scissor.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F03A1C91778E1A90073F8B8 /* RPS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RPS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F03A1CC1778E1A90073F8B8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		3F03A1CE1778E1A90073F8B8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		3F03A1D01778E1A90073F8B8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		3F03A1D41778E1A90073F8B8 /* Rock Paper Scissor-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Rock Paper Scissor-Info.plist"; sourceTree = "<group>"; };
+		3F03A1D41778E1A90073F8B8 /* RPS-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "RPS-Info.plist"; sourceTree = "<group>"; };
 		3F03A1D61778E1A90073F8B8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3F03A1D81778E1A90073F8B8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		3F03A1DA1778E1A90073F8B8 /* Rock Paper Scissor-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Rock Paper Scissor-Prefix.pch"; sourceTree = "<group>"; };
 		3F03A1DB1778E1A90073F8B8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		3F03A1DC1778E1A90073F8B8 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		3F03A1DE1778E1A90073F8B8 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
@@ -51,16 +45,11 @@
 		3F03A1E81778E1A90073F8B8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPhone.xib; sourceTree = "<group>"; };
 		3F03A1EB1778E1A90073F8B8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPad.xib; sourceTree = "<group>"; };
 		3F03A1F21778EF600073F8B8 /* city.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = city.jpeg; sourceTree = "<group>"; };
-		3F095BC41785F6DB0080A45A /* Rock.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Rock.jpg; sourceTree = "<group>"; };
-		3F121B54177B525400A0025E /* RPSLogo 114px.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "RPSLogo 114px.png"; sourceTree = "<group>"; };
-		3F121B56177B525A00A0025E /* RPSLogo 57px.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "RPSLogo 57px.png"; sourceTree = "<group>"; };
-		3F6DB03F177B33C700BF7350 /* mcWallPaper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mcWallPaper.png; sourceTree = "<group>"; };
-		3F6DB041177B353600BF7350 /* wave.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wave.jpg; sourceTree = "<group>"; };
-		3FFEFC65177A2DE1006B9C70 /* computer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = computer.jpg; sourceTree = "<group>"; };
-		3FFEFC67177A333C006B9C70 /* Scissors.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Scissors.png; sourceTree = "<group>"; };
-		3FFEFC69177A3346006B9C70 /* paper.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = paper.gif; sourceTree = "<group>"; };
-		3FFEFC6B177A334F006B9C70 /* Rock.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Rock.jpg; sourceTree = "<group>"; };
-		3FFEFC6D177A3631006B9C70 /* you.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = you.jpg; sourceTree = "<group>"; };
+		3F095BC81785FB6A0080A45A /* Scissors.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Scissors.png; sourceTree = "<group>"; };
+		3F095BCA1785FB740080A45A /* Rock.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Rock.jpg; sourceTree = "<group>"; };
+		3F095BCC1785FB7E0080A45A /* paper.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = paper.gif; sourceTree = "<group>"; };
+		3F095BCE1785FB9E0080A45A /* you.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = you.jpg; path = ../you.jpg; sourceTree = "<group>"; };
+		3F095BD01785FBA70080A45A /* computer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = computer.jpg; path = ../computer.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,9 +69,6 @@
 		3F03A1C01778E1A90073F8B8 = {
 			isa = PBXGroup;
 			children = (
-				3F095BC41785F6DB0080A45A /* Rock.jpg */,
-				3F121B56177B525A00A0025E /* RPSLogo 57px.png */,
-				3F121B54177B525400A0025E /* RPSLogo 114px.png */,
 				3F03A1D21778E1A90073F8B8 /* Rock Paper Scissor */,
 				3F03A1CB1778E1A90073F8B8 /* Frameworks */,
 				3F03A1CA1778E1A90073F8B8 /* Products */,
@@ -92,7 +78,7 @@
 		3F03A1CA1778E1A90073F8B8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3F03A1C91778E1A90073F8B8 /* Rock Paper Scissor.app */,
+				3F03A1C91778E1A90073F8B8 /* RPS.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -124,19 +110,16 @@
 		3F03A1D31778E1A90073F8B8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				3F03A1D41778E1A90073F8B8 /* Rock Paper Scissor-Info.plist */,
+				3F03A1D41778E1A90073F8B8 /* RPS-Info.plist */,
 				3F03A1F21778EF600073F8B8 /* city.jpeg */,
-				3FFEFC65177A2DE1006B9C70 /* computer.jpg */,
-				3FFEFC6D177A3631006B9C70 /* you.jpg */,
-				3F6DB041177B353600BF7350 /* wave.jpg */,
-				3FFEFC67177A333C006B9C70 /* Scissors.png */,
-				3F6DB03F177B33C700BF7350 /* mcWallPaper.png */,
 				3F03A1D51778E1A90073F8B8 /* InfoPlist.strings */,
-				3FFEFC69177A3346006B9C70 /* paper.gif */,
-				3FFEFC6B177A334F006B9C70 /* Rock.jpg */,
 				3F03A1D81778E1A90073F8B8 /* main.m */,
-				3F03A1DA1778E1A90073F8B8 /* Rock Paper Scissor-Prefix.pch */,
+				3F095BD01785FBA70080A45A /* computer.jpg */,
+				3F095BCE1785FB9E0080A45A /* you.jpg */,
 				3F03A1DE1778E1A90073F8B8 /* Default.png */,
+				3F095BCC1785FB7E0080A45A /* paper.gif */,
+				3F095BCA1785FB740080A45A /* Rock.jpg */,
+				3F095BC81785FB6A0080A45A /* Scissors.png */,
 				3F03A1E01778E1A90073F8B8 /* Default@2x.png */,
 				3F03A1E21778E1A90073F8B8 /* Default-568h@2x.png */,
 			);
@@ -146,9 +129,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3F03A1C81778E1A90073F8B8 /* Rock Paper Scissor */ = {
+		3F03A1C81778E1A90073F8B8 /* RPS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3F03A1EF1778E1A90073F8B8 /* Build configuration list for PBXNativeTarget "Rock Paper Scissor" */;
+			buildConfigurationList = 3F03A1EF1778E1A90073F8B8 /* Build configuration list for PBXNativeTarget "RPS" */;
 			buildPhases = (
 				3F03A1C51778E1A90073F8B8 /* Sources */,
 				3F03A1C61778E1A90073F8B8 /* Frameworks */,
@@ -158,9 +141,9 @@
 			);
 			dependencies = (
 			);
-			name = "Rock Paper Scissor";
+			name = RPS;
 			productName = "Rock Paper Scissor";
-			productReference = 3F03A1C91778E1A90073F8B8 /* Rock Paper Scissor.app */;
+			productReference = 3F03A1C91778E1A90073F8B8 /* RPS.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -172,7 +155,7 @@
 				LastUpgradeCheck = 0460;
 				ORGANIZATIONNAME = "Tyler Maher";
 			};
-			buildConfigurationList = 3F03A1C41778E1A90073F8B8 /* Build configuration list for PBXProject "Rock Paper Scissor" */;
+			buildConfigurationList = 3F03A1C41778E1A90073F8B8 /* Build configuration list for PBXProject "RPS" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -184,7 +167,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3F03A1C81778E1A90073F8B8 /* Rock Paper Scissor */,
+				3F03A1C81778E1A90073F8B8 /* RPS */,
 			);
 		};
 /* End PBXProject section */
@@ -201,16 +184,11 @@
 				3F03A1E91778E1A90073F8B8 /* ViewController_iPhone.xib in Resources */,
 				3F03A1EC1778E1A90073F8B8 /* ViewController_iPad.xib in Resources */,
 				3F03A1F31778EF600073F8B8 /* city.jpeg in Resources */,
-				3FFEFC66177A2DE1006B9C70 /* computer.jpg in Resources */,
-				3FFEFC68177A333C006B9C70 /* Scissors.png in Resources */,
-				3FFEFC6A177A3346006B9C70 /* paper.gif in Resources */,
-				3FFEFC6C177A334F006B9C70 /* Rock.jpg in Resources */,
-				3FFEFC6E177A3631006B9C70 /* you.jpg in Resources */,
-				3F6DB040177B33C700BF7350 /* mcWallPaper.png in Resources */,
-				3F6DB042177B353600BF7350 /* wave.jpg in Resources */,
-				3F095BC51785F6DB0080A45A /* Rock.jpg in Resources */,
-				3F095BC61785F6ED0080A45A /* RPSLogo 57px.png in Resources */,
-				3F095BC71785F6F00080A45A /* RPSLogo 114px.png in Resources */,
+				3F095BC91785FB6A0080A45A /* Scissors.png in Resources */,
+				3F095BCB1785FB740080A45A /* Rock.jpg in Resources */,
+				3F095BCD1785FB7E0080A45A /* paper.gif in Resources */,
+				3F095BCF1785FB9E0080A45A /* you.jpg in Resources */,
+				3F095BD11785FBA70080A45A /* computer.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -319,9 +297,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Rock Paper Scissor/Rock Paper Scissor-Prefix.pch";
-				INFOPLIST_FILE = "Rock Paper Scissor/Rock Paper Scissor-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "Rock Paper Scissor/RPS-Prefix.pch";
+				INFOPLIST_FILE = "Rock Paper Scissor/RPS-Info.plist";
+				PRODUCT_NAME = RPS;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -330,9 +308,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Rock Paper Scissor/Rock Paper Scissor-Prefix.pch";
-				INFOPLIST_FILE = "Rock Paper Scissor/Rock Paper Scissor-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "Rock Paper Scissor/RPS-Prefix.pch";
+				INFOPLIST_FILE = "Rock Paper Scissor/RPS-Info.plist";
+				PRODUCT_NAME = RPS;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -340,7 +318,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3F03A1C41778E1A90073F8B8 /* Build configuration list for PBXProject "Rock Paper Scissor" */ = {
+		3F03A1C41778E1A90073F8B8 /* Build configuration list for PBXProject "RPS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3F03A1ED1778E1A90073F8B8 /* Debug */,
@@ -349,7 +327,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3F03A1EF1778E1A90073F8B8 /* Build configuration list for PBXNativeTarget "Rock Paper Scissor" */ = {
+		3F03A1EF1778E1A90073F8B8 /* Build configuration list for PBXNativeTarget "RPS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3F03A1F01778E1A90073F8B8 /* Debug */,

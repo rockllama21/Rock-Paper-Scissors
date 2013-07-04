@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3F03A1C81778E1A90073F8B8"
-               BuildableName = "Rock Paper Scissor.app"
-               BlueprintName = "Rock Paper Scissor"
-               ReferencedContainer = "container:Rock Paper Scissor.xcodeproj">
+               BuildableName = "RPS.app"
+               BlueprintName = "RPS"
+               ReferencedContainer = "container:RPS.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3F03A1C81778E1A90073F8B8"
-            BuildableName = "Rock Paper Scissor.app"
-            BlueprintName = "Rock Paper Scissor"
-            ReferencedContainer = "container:Rock Paper Scissor.xcodeproj">
+            BuildableName = "RPS.app"
+            BlueprintName = "RPS"
+            ReferencedContainer = "container:RPS.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,9 +52,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3F03A1C81778E1A90073F8B8"
-            BuildableName = "Rock Paper Scissor.app"
-            BlueprintName = "Rock Paper Scissor"
-            ReferencedContainer = "container:Rock Paper Scissor.xcodeproj">
+            BuildableName = "RPS.app"
+            BlueprintName = "RPS"
+            ReferencedContainer = "container:RPS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -70,9 +70,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3F03A1C81778E1A90073F8B8"
-            BuildableName = "Rock Paper Scissor.app"
-            BlueprintName = "Rock Paper Scissor"
-            ReferencedContainer = "container:Rock Paper Scissor.xcodeproj">
+            BuildableName = "RPS.app"
+            BlueprintName = "RPS"
+            ReferencedContainer = "container:RPS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
