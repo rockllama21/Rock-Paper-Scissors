@@ -27,7 +27,7 @@
     [super viewDidLoad];
     NSLog(@"Welcome%@\nTo Rock, Paper, Scissors", @" Tyler");
 	// Do any additional setup after loading the view, typically from a nib.
-    [background_img setImage:[UIImage imageNamed:@"city.jpeg"]];
+    [background_img setImage:[UIImage imageNamed:@"wave.jpg"]];
     
     
     [super viewDidLoad];

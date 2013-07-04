@@ -20,6 +20,11 @@
 		3F03A1E91778E1A90073F8B8 /* ViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3F03A1E71778E1A90073F8B8 /* ViewController_iPhone.xib */; };
 		3F03A1EC1778E1A90073F8B8 /* ViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3F03A1EA1778E1A90073F8B8 /* ViewController_iPad.xib */; };
 		3F03A1F31778EF600073F8B8 /* city.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3F03A1F21778EF600073F8B8 /* city.jpeg */; };
+		3F095BC51785F6DB0080A45A /* Rock.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F095BC41785F6DB0080A45A /* Rock.jpg */; };
+		3F095BC61785F6ED0080A45A /* RPSLogo 57px.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F121B56177B525A00A0025E /* RPSLogo 57px.png */; };
+		3F095BC71785F6F00080A45A /* RPSLogo 114px.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F121B54177B525400A0025E /* RPSLogo 114px.png */; };
+		3F6DB040177B33C700BF7350 /* mcWallPaper.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F6DB03F177B33C700BF7350 /* mcWallPaper.png */; };
+		3F6DB042177B353600BF7350 /* wave.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F6DB041177B353600BF7350 /* wave.jpg */; };
 		3FFEFC66177A2DE1006B9C70 /* computer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFEFC65177A2DE1006B9C70 /* computer.jpg */; };
 		3FFEFC68177A333C006B9C70 /* Scissors.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FFEFC67177A333C006B9C70 /* Scissors.png */; };
 		3FFEFC6A177A3346006B9C70 /* paper.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3FFEFC69177A3346006B9C70 /* paper.gif */; };
@@ -46,6 +51,11 @@
 		3F03A1E81778E1A90073F8B8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPhone.xib; sourceTree = "<group>"; };
 		3F03A1EB1778E1A90073F8B8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPad.xib; sourceTree = "<group>"; };
 		3F03A1F21778EF600073F8B8 /* city.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = city.jpeg; sourceTree = "<group>"; };
+		3F095BC41785F6DB0080A45A /* Rock.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Rock.jpg; sourceTree = "<group>"; };
+		3F121B54177B525400A0025E /* RPSLogo 114px.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "RPSLogo 114px.png"; sourceTree = "<group>"; };
+		3F121B56177B525A00A0025E /* RPSLogo 57px.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "RPSLogo 57px.png"; sourceTree = "<group>"; };
+		3F6DB03F177B33C700BF7350 /* mcWallPaper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mcWallPaper.png; sourceTree = "<group>"; };
+		3F6DB041177B353600BF7350 /* wave.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wave.jpg; sourceTree = "<group>"; };
 		3FFEFC65177A2DE1006B9C70 /* computer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = computer.jpg; sourceTree = "<group>"; };
 		3FFEFC67177A333C006B9C70 /* Scissors.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Scissors.png; sourceTree = "<group>"; };
 		3FFEFC69177A3346006B9C70 /* paper.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = paper.gif; sourceTree = "<group>"; };
@@ -70,6 +80,9 @@
 		3F03A1C01778E1A90073F8B8 = {
 			isa = PBXGroup;
 			children = (
+				3F095BC41785F6DB0080A45A /* Rock.jpg */,
+				3F121B56177B525A00A0025E /* RPSLogo 57px.png */,
+				3F121B54177B525400A0025E /* RPSLogo 114px.png */,
 				3F03A1D21778E1A90073F8B8 /* Rock Paper Scissor */,
 				3F03A1CB1778E1A90073F8B8 /* Frameworks */,
 				3F03A1CA1778E1A90073F8B8 /* Products */,
@@ -115,7 +128,9 @@
 				3F03A1F21778EF600073F8B8 /* city.jpeg */,
 				3FFEFC65177A2DE1006B9C70 /* computer.jpg */,
 				3FFEFC6D177A3631006B9C70 /* you.jpg */,
+				3F6DB041177B353600BF7350 /* wave.jpg */,
 				3FFEFC67177A333C006B9C70 /* Scissors.png */,
+				3F6DB03F177B33C700BF7350 /* mcWallPaper.png */,
 				3F03A1D51778E1A90073F8B8 /* InfoPlist.strings */,
 				3FFEFC69177A3346006B9C70 /* paper.gif */,
 				3FFEFC6B177A334F006B9C70 /* Rock.jpg */,
@@ -191,6 +206,11 @@
 				3FFEFC6A177A3346006B9C70 /* paper.gif in Resources */,
 				3FFEFC6C177A334F006B9C70 /* Rock.jpg in Resources */,
 				3FFEFC6E177A3631006B9C70 /* you.jpg in Resources */,
+				3F6DB040177B33C700BF7350 /* mcWallPaper.png in Resources */,
+				3F6DB042177B353600BF7350 /* wave.jpg in Resources */,
+				3F095BC51785F6DB0080A45A /* Rock.jpg in Resources */,
+				3F095BC61785F6ED0080A45A /* RPSLogo 57px.png in Resources */,
+				3F095BC71785F6F00080A45A /* RPSLogo 114px.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
